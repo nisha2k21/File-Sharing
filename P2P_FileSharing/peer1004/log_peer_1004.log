@@ -1,0 +1,355 @@
+1670475658788: Peer 1004 has the preferred neighbors null,null
+1670475658871: Peer 1004 has the optimistically unchoked neighbor null
+Listening to..6011
+1670475658884: Peer 1004 makes connection to Peer 1001
+1670475658919: Peer 1004 makes connection to Peer 1002
+1670475658925: Peer 1004 makes connection to Peer 1003
+1670475659886: Peer 1004 received the ‘not interested’ message 1001
+1670475660478: Peer 1004 received 'have' message from 1002
+1670475660697: Peer 1004 received 'have' message from 1003
+1670475660721: Peer 1004 received the ‘not interested’ message 1003
+1670475660727: Peer 1004 received the ‘not interested’ message 1002
+1670475688917: Peer 1004 has the preferred neighbors 1002,1003
+1670475688936: Peer 1004 received 'have' message from 1003
+1670475689942: Peer 1004 received 'have' message from 1002
+1670475693958: Peer 1004 has the preferred neighbors 1001,1003
+1670475694031: Peer 1004 is unchoked by 1002
+1670475694127: Peer 1004 received 'have' message from 1003
+1670475694140: Peer 1004 received the ‘not interested’ message 1002
+1670475698596: Peer 1004 is unchoked by 1001
+1670475698667: Peer 1004 is choked by 1001
+1670475705067: Peer 1004 received the ‘not interested’ message 1001
+1670475705070: Peer 1004 is choked by 1002
+1670475705077: Peer 1004 is unchoked by 1002
+1670475719609: Peer 1004 is unchoked by 1003
+1670475721438: Peer 1004 received the ‘not interested’ message 1003
+1670475726454: Peer 1004 has the preferred neighbors 1002,1003
+1670475727288: Peer 1004 received 'have' message from 1002
+1670475729498: Peer 1004 has downloaded the piece 601 from 1002
+1670475730917: Peer 1004 has downloaded the piece 513 from 1002
+1670475732509: Peer 1004 has downloaded the piece 615 from 1002
+1670475735087: Peer 1004 has downloaded the piece 112 from 1002
+1670475735089: Peer 1004 is unchoked by 1003
+1670475735706: Peer 1004 has downloaded the piece 344 from 1002
+1670475737284: Peer 1004 has downloaded the piece 76 from 1002
+1670475738931: Peer 1004 has downloaded the piece 717 from 1002
+1670475738932: Peer 1004 is unchoked by 1003
+1670475739548: Peer 1004 has downloaded the piece 673 from 1002
+1670475741152: Peer 1004 has downloaded the piece 343 from 1002
+1670475743744: Peer 1004 has downloaded the piece 305 from 1002
+1670475744750: Peer 1004 has the preferred neighbors 1001,1002
+1670475746332: Peer 1004 has downloaded the piece 18 from 1002
+1670475747208: Peer 1004 received 'have' message from 1001
+1670475747781: Peer 1004 has downloaded the piece 321 from 1002
+1670475748366: Peer 1004 has downloaded the piece 12 from 1002
+1670475748943: Peer 1004 has downloaded the piece 711 from 1002
+1670475749949: Peer 1004 has the preferred neighbors 1001,1003
+1670475749980: Peer 1004 received 'have' message from 1002
+1670475750216: Peer 1004 received 'have' message from 1003
+1670475753187: Peer 1004 has downloaded the piece 591 from 1003
+1670475753771: Peer 1004 has downloaded the piece 119 from 1002
+1670475754777: Peer 1004 has the preferred neighbors 1001,1003
+1670475755356: Peer 1004 has downloaded the piece 406 from 1002
+1670475755967: Peer 1004 has downloaded the piece 432 from 1003
+1670475756971: Peer 1004 is choked by 1002
+1670475757587: Peer 1004 has downloaded the piece 469 from 1003
+1670475758591: Peer 1004 is unchoked by 1002
+1670475759228: Peer 1004 has downloaded the piece 739 from 1003
+1670475759233: Peer 1004 has the preferred neighbors 1002,1003
+1670475760103: Peer 1004 has downloaded the piece 204 from 1002
+1670475761642: Peer 1004 has downloaded the piece 312 from 1003
+1670475762232: Peer 1004 has downloaded the piece 327 from 1002
+1670475763091: Peer 1004 has downloaded the piece 497 from 1003
+1670475763679: Peer 1004 has downloaded the piece 153 from 1002
+1670475765085: Peer 1004 has downloaded the piece 435 from 1003
+1670475765090: Peer 1004 has the preferred neighbors 1001,1003
+1670475765675: Peer 1004 has downloaded the piece 731 from 1002
+1670475766485: Peer 1004 has downloaded the piece 290 from 1003
+1670475767089: Peer 1004 has downloaded the piece 301 from 1002
+1670475767883: Peer 1004 has downloaded the piece 518 from 1003
+1670475768483: Peer 1004 has downloaded the piece 407 from 1002
+1670475769062: Peer 1004 has downloaded the piece 347 from 1003
+1670475769067: Peer 1004 has the preferred neighbors 1001,1002
+1670475769672: Peer 1004 has downloaded the piece 424 from 1002
+1670475770258: Peer 1004 has downloaded the piece 314 from 1003
+1670475770850: Peer 1004 has downloaded the piece 371 from 1002
+1670475771430: Peer 1004 has downloaded the piece 110 from 1003
+1670475772022: Peer 1004 has downloaded the piece 285 from 1002
+1670475772606: Peer 1004 has downloaded the piece 297 from 1003
+1670475773191: Peer 1004 has downloaded the piece 540 from 1002
+1670475773810: Peer 1004 has downloaded the piece 625 from 1003
+1670475774399: Peer 1004 has downloaded the piece 346 from 1002
+1670475774983: Peer 1004 has downloaded the piece 48 from 1003
+1670475774987: Peer 1004 has the preferred neighbors 1001,1003
+1670475775573: Peer 1004 has downloaded the piece 9 from 1002
+1670475776146: Peer 1004 has downloaded the piece 643 from 1003
+1670475776726: Peer 1004 has downloaded the piece 220 from 1002
+1670475776729: Peer 1004 is unchoked by 1003
+1670475777324: Peer 1004 has downloaded the piece 522 from 1002
+1670475777915: Peer 1004 has downloaded the piece 105 from 1003
+1670475778525: Peer 1004 has downloaded the piece 469 from 1002
+1670475779096: Peer 1004 has downloaded the piece 554 from 1003
+1670475779100: Peer 1004 has the preferred neighbors 1001,1003
+1670475779683: Peer 1004 has downloaded the piece 735 from 1002
+1670475780266: Peer 1004 has downloaded the piece 138 from 1003
+1670475780269: Peer 1004 is choked by 1002
+1670475781054: Peer 1004 has downloaded the piece 578 from 1003
+1670475781062: Peer 1004 is unchoked by 1002
+1670475782477: Peer 1004 has downloaded the piece 731 from 1003
+1670475783897: Peer 1004 has downloaded the piece 60 from 1003
+1670475783902: Peer 1004 has the preferred neighbors 1001,1002
+1670475786510: Peer 1004 has downloaded the piece 111 from 1003
+1670475787896: Peer 1004 has downloaded the piece 516 from 1003
+1670475787899: Peer 1004 received the ‘interested’ message from 1002
+1670475788751: Peer 1004 has downloaded the piece 395 from 1003
+1670475790211: Peer 1004 has downloaded the piece 315 from 1003
+1670475790218: Peer 1004 has the preferred neighbors 1001,1002
+1670475791051: Peer 1004 has downloaded the piece 90 from 1003
+1670475791089: Peer 1004 received 'have' message from 1002
+1670475791258: Peer 1004 received 'have' message from 1002
+1670475792451: Peer 1004 received 'have' message from 1003
+1670475792454: Peer 1004 received the ‘interested’ message from 1002
+1670475793725: Peer 1004 received 'have' message from 1003
+1670475794902: Peer 1004 received 'have' message from 1003
+1670475796149: Peer 1004 received 'have' message from 1003
+1670475796796: Peer 1004 received the ‘interested’ message from 1003
+1670475800071: Peer 1004 received 'have' message from 1003
+1670475804402: Peer 1004 has downloaded the piece 484 from 1003
+1670475804407: Peer 1004 has the preferred neighbors 1001,1003
+1670475805149: Peer 1004 has downloaded the piece 36 from 1003
+1670475805757: Peer 1004 has downloaded the piece 414 from 1003
+1670475806359: Peer 1004 has downloaded the piece 692 from 1003
+1670475806999: Peer 1004 has downloaded the piece 266 from 1003
+1670475807583: Peer 1004 has downloaded the piece 438 from 1003
+1670475807629: Peer 1004 received 'have' message from 1002
+1670475808263: Peer 1004 has downloaded the piece 309 from 1003
+1670475809851: Peer 1004 has downloaded the piece 408 from 1003
+1670475810793: Peer 1004 has downloaded the piece 252 from 1002
+1670475811368: Peer 1004 has downloaded the piece 225 from 1003
+1670475811969: Peer 1004 has downloaded the piece 210 from 1002
+1670475812558: Peer 1004 has downloaded the piece 457 from 1003
+1670475813164: Peer 1004 has downloaded the piece 61 from 1002
+1670475813749: Peer 1004 has downloaded the piece 651 from 1003
+1670475814345: Peer 1004 has downloaded the piece 438 from 1002
+1670475814953: Peer 1004 has downloaded the piece 247 from 1003
+1670475814958: Peer 1004 has the preferred neighbors 1001,1002
+1670475815562: Peer 1004 has downloaded the piece 82 from 1002
+1670475816174: Peer 1004 has downloaded the piece 245 from 1003
+1670475816776: Peer 1004 has downloaded the piece 656 from 1002
+1670475817387: Peer 1004 has downloaded the piece 202 from 1003
+1670475817987: Peer 1004 has downloaded the piece 517 from 1002
+1670475818584: Peer 1004 has downloaded the piece 740 from 1003
+1670475819187: Peer 1004 has downloaded the piece 245 from 1002
+1670475819787: Peer 1004 has downloaded the piece 454 from 1003
+1670475819792: Peer 1004 has the preferred neighbors 1002,1003
+1670475820405: Peer 1004 has downloaded the piece 664 from 1002
+1670475821008: Peer 1004 has downloaded the piece 173 from 1003
+1670475821621: Peer 1004 has downloaded the piece 581 from 1002
+1670475822225: Peer 1004 has downloaded the piece 728 from 1003
+1670475822839: Peer 1004 has downloaded the piece 183 from 1002
+1670475823442: Peer 1004 has downloaded the piece 368 from 1003
+1670475824049: Peer 1004 has downloaded the piece 525 from 1002
+1670475824642: Peer 1004 has downloaded the piece 632 from 1003
+1670475824647: Peer 1004 has the preferred neighbors 1003,1002
+1670475825273: Peer 1004 has downloaded the piece 679 from 1002
+1670475825874: Peer 1004 has downloaded the piece 594 from 1003
+1670475826478: Peer 1004 has downloaded the piece 712 from 1002
+1670475827083: Peer 1004 has downloaded the piece 109 from 1003
+1670475827699: Peer 1004 has downloaded the piece 359 from 1002
+1670475828305: Peer 1004 has downloaded the piece 29 from 1003
+1670475828917: Peer 1004 has downloaded the piece 646 from 1002
+1670475829529: Peer 1004 has downloaded the piece 723 from 1003
+1670475829533: Peer 1004 has the preferred neighbors 1001,1003
+1670475830142: Peer 1004 has downloaded the piece 723 from 1002
+1670475830743: Peer 1004 has downloaded the piece 267 from 1003
+1670475831341: Peer 1004 has downloaded the piece 589 from 1002
+1670475831946: Peer 1004 has downloaded the piece 671 from 1003
+1670475832534: Peer 1004 has downloaded the piece 443 from 1002
+1670475833136: Peer 1004 has downloaded the piece 56 from 1003
+1670475833730: Peer 1004 has downloaded the piece 630 from 1002
+1670475834325: Peer 1004 has downloaded the piece 729 from 1003
+1670475834330: Peer 1004 has the preferred neighbors 1001,1002
+1670475834913: Peer 1004 has downloaded the piece 529 from 1002
+1670475835520: Peer 1004 has downloaded the piece 364 from 1003
+1670475836104: Peer 1004 has downloaded the piece 663 from 1002
+1670475836707: Peer 1004 has downloaded the piece 582 from 1003
+1670475837297: Peer 1004 has downloaded the piece 185 from 1002
+1670475837904: Peer 1004 has downloaded the piece 200 from 1003
+1670475838490: Peer 1004 has downloaded the piece 649 from 1002
+1670475839087: Peer 1004 has downloaded the piece 433 from 1003
+1670475839091: Peer 1004 has the preferred neighbors 1003,1002
+1670475839692: Peer 1004 has downloaded the piece 20 from 1003
+1670475840275: Peer 1004 has downloaded the piece 723 from 1002
+1670475840875: Peer 1004 has downloaded the piece 218 from 1003
+1670475841466: Peer 1004 has downloaded the piece 525 from 1002
+1670475842074: Peer 1004 has downloaded the piece 149 from 1003
+1670475842666: Peer 1004 has downloaded the piece 245 from 1002
+1670475843278: Peer 1004 has downloaded the piece 537 from 1003
+1670475843865: Peer 1004 has downloaded the piece 50 from 1002
+1670475844467: Peer 1004 has downloaded the piece 115 from 1003
+1670475844471: Peer 1004 has the preferred neighbors 1003,1002
+1670475845058: Peer 1004 has downloaded the piece 679 from 1002
+1670475845665: Peer 1004 has downloaded the piece 330 from 1003
+1670475846269: Peer 1004 has downloaded the piece 443 from 1002
+1670475846882: Peer 1004 has downloaded the piece 448 from 1003
+1670475847478: Peer 1004 has downloaded the piece 36 from 1002
+1670475848087: Peer 1004 has downloaded the piece 31 from 1003
+1670475848747: Peer 1004 has downloaded the piece 252 from 1002
+1670475849539: Peer 1004 has downloaded the piece 231 from 1003
+1670475849543: Peer 1004 has the preferred neighbors 1001,1002
+1670475850135: Peer 1004 has downloaded the piece 210 from 1002
+1670475850751: Peer 1004 has downloaded the piece 50 from 1003
+1670475851358: Peer 1004 has downloaded the piece 29 from 1003
+1670475851970: Peer 1004 has downloaded the piece 149 from 1003
+1670475852593: Peer 1004 has downloaded the piece 266 from 1003
+1670475853206: Peer 1004 has downloaded the piece 320 from 1003
+1670475853811: Peer 1004 has downloaded the piece 218 from 1003
+1670475854412: Peer 1004 has downloaded the piece 368 from 1003
+1670475854416: Peer 1004 has the preferred neighbors 1001,1003
+1670475855018: Peer 1004 has downloaded the piece 455 from 1003
+1670475855021: Peer 1004 is unchoked by 1003
+1670475855623: Peer 1004 has downloaded the piece 594 from 1003
+1670475856224: Peer 1004 has downloaded the piece 225 from 1003
+1670475856830: Peer 1004 has downloaded the piece 438 from 1003
+1670475857439: Peer 1004 has downloaded the piece 414 from 1003
+1670475858043: Peer 1004 has downloaded the piece 692 from 1003
+1670475858651: Peer 1004 has downloaded the piece 202 from 1003
+1670475859260: Peer 1004 has downloaded the piece 330 from 1003
+1670475859265: Peer 1004 has the preferred neighbors 1001,1002
+1670475859872: Peer 1004 has downloaded the piece 671 from 1003
+1670475860481: Peer 1004 has downloaded the piece 723 from 1003
+1670475861093: Peer 1004 has downloaded the piece 109 from 1003
+1670475861096: Peer 1004 is unchoked by 1002
+1670475861704: Peer 1004 has downloaded the piece 632 from 1003
+1670475863309: Peer 1004 has downloaded the piece 454 from 1003
+1670475863968: Peer 1004 has downloaded the piece 484 from 1003
+1670475863974: Peer 1004 has the preferred neighbors 1003,1002
+1670475865581: Peer 1004 has downloaded the piece 56 from 1003
+1670475866185: Peer 1004 has downloaded the piece 245 from 1003
+1670475866787: Peer 1004 has downloaded the piece 729 from 1003
+1670475869909: Peer 1004 has downloaded the piece 408 from 1003
+1670475869922: Peer 1004 has the preferred neighbors 1001,1002
+1670475869924: Peer 1004 is choked by 1002
+1670475870633: Peer 1004 has downloaded the piece 20 from 1003
+1670475870636: Peer 1004 is unchoked by 1002
+1670475871229: Peer 1004 has downloaded the piece 31 from 1003
+1670475871841: Peer 1004 has downloaded the piece 433 from 1003
+1670475872418: Peer 1004 has downloaded the piece 277 from 1002
+1670475873029: Peer 1004 has downloaded the piece 309 from 1003
+1670475874666: Peer 1004 has downloaded the piece 200 from 1003
+1670475874671: Peer 1004 has the preferred neighbors 1001,1003
+1670475876309: Peer 1004 has downloaded the piece 448 from 1003
+1670475876889: Peer 1004 has downloaded the piece 215 from 1002
+1670475877489: Peer 1004 has downloaded the piece 740 from 1003
+1670475878066: Peer 1004 has downloaded the piece 245 from 1002
+1670475878672: Peer 1004 has downloaded the piece 457 from 1003
+1670475882579: Peer 1004 has downloaded the piece 728 from 1003
+1670475882587: Peer 1004 has the preferred neighbors 1001,1002
+1670475883156: Peer 1004 has downloaded the piece 353 from 1002
+1670475883767: Peer 1004 has downloaded the piece 651 from 1003
+1670475884331: Peer 1004 has downloaded the piece 517 from 1002
+1670475884937: Peer 1004 has downloaded the piece 247 from 1003
+1670475884946: Peer 1004 has the preferred neighbors 1001,1003
+1670475885522: Peer 1004 has downloaded the piece 210 from 1002
+1670475886127: Peer 1004 has downloaded the piece 115 from 1003
+1670475886131: Peer 1004 is choked by 1002
+1670475886740: Peer 1004 has downloaded the piece 36 from 1003
+1670475886749: Peer 1004 is unchoked by 1002
+1670475887347: Peer 1004 has downloaded the piece 231 from 1003
+1670475887921: Peer 1004 has downloaded the piece 581 from 1002
+1670475888526: Peer 1004 has downloaded the piece 537 from 1003
+1670475889133: Peer 1004 has downloaded the piece 663 from 1002
+1670475889720: Peer 1004 has downloaded the piece 582 from 1003
+1670475889725: Peer 1004 has the preferred neighbors 1002,1003
+1670475890289: Peer 1004 has downloaded the piece 184 from 1002
+1670475890877: Peer 1004 has downloaded the piece 548 from 1003
+1670475891441: Peer 1004 has downloaded the piece 679 from 1002
+1670475892028: Peer 1004 has downloaded the piece 173 from 1003
+1670475892591: Peer 1004 has downloaded the piece 185 from 1002
+1670475893183: Peer 1004 has downloaded the piece 247 from 1003
+1670475893748: Peer 1004 has downloaded the piece 723 from 1002
+1670475894354: Peer 1004 has downloaded the piece 231 from 1003
+1670475894359: Peer 1004 has the preferred neighbors 1001,1003
+1670475895603: Peer 1004 has downloaded the piece 309 from 1002
+1670475896205: Peer 1004 has downloaded the piece 267 from 1003
+1670475897006: Peer 1004 has downloaded the piece 589 from 1002
+1670475897604: Peer 1004 has downloaded the piece 729 from 1003
+1670475898319: Peer 1004 has downloaded the piece 443 from 1002
+1670475898921: Peer 1004 has downloaded the piece 31 from 1003
+1670475898925: Peer 1004 has the preferred neighbors 1003,1002
+1670475900526: Peer 1004 has downloaded the piece 594 from 1003
+1670475901097: Peer 1004 has downloaded the piece 167 from 1002
+1670475901711: Peer 1004 has downloaded the piece 200 from 1003
+1670475902297: Peer 1004 has downloaded the piece 656 from 1002
+1670475902907: Peer 1004 has downloaded the piece 330 from 1003
+1670475903623: Peer 1004 has downloaded the piece 529 from 1002
+1670475904242: Peer 1004 has downloaded the piece 692 from 1003
+1670475904249: Peer 1004 has the preferred neighbors 1001,1003
+1670475904252: Peer 1004 is choked by 1002
+1670475904855: Peer 1004 has downloaded the piece 740 from 1003
+1670475904859: Peer 1004 is unchoked by 1002
+1670475905466: Peer 1004 has downloaded the piece 454 from 1003
+1670475906039: Peer 1004 has downloaded the piece 687 from 1002
+1670475906630: Peer 1004 has downloaded the piece 245 from 1003
+1670475907264: Peer 1004 has downloaded the piece 183 from 1002
+1670475907860: Peer 1004 has downloaded the piece 723 from 1003
+1670475909432: Peer 1004 has downloaded the piece 428 from 1002
+1670475910034: Peer 1004 has downloaded the piece 225 from 1003
+1670475910038: Peer 1004 has the preferred neighbors 1001,1002
+1670475910620: Peer 1004 has downloaded the piece 668 from 1002
+1670475911217: Peer 1004 has downloaded the piece 448 from 1003
+1670475911788: Peer 1004 has downloaded the piece 50 from 1002
+1670475912396: Peer 1004 has downloaded the piece 29 from 1003
+1670475912973: Peer 1004 has downloaded the piece 82 from 1002
+1670475913591: Peer 1004 has downloaded the piece 109 from 1003
+1670475914157: Peer 1004 has downloaded the piece 596 from 1002
+1670475914768: Peer 1004 has downloaded the piece 455 from 1003
+1670475914787: Peer 1004 has the preferred neighbors 1001,1003
+1670475915370: Peer 1004 has downloaded the piece 646 from 1002
+1670475915373: Peer 1004 is unchoked by 1003
+1670475915946: Peer 1004 has downloaded the piece 359 from 1002
+1670475916540: Peer 1004 has downloaded the piece 368 from 1003
+1670475917110: Peer 1004 has downloaded the piece 58 from 1002
+1670475917731: Peer 1004 has downloaded the piece 36 from 1003
+1670475918341: Peer 1004 has downloaded the piece 649 from 1002
+1670475918948: Peer 1004 has downloaded the piece 408 from 1003
+1670475918952: Peer 1004 has the preferred neighbors 1003,1002
+1670475919526: Peer 1004 has downloaded the piece 252 from 1002
+1670475920122: Peer 1004 has downloaded the piece 728 from 1003
+1670475920283: Peer 1004 received 'have' message from 1002
+1670475920871: Peer 1004 has downloaded the piece 266 from 1003
+1670475921469: Peer 1004 has downloaded the piece 20 from 1003
+1670475921633: Peer 1004 received 'have' message from 1002
+1670475922203: Peer 1004 has downloaded the piece 173 from 1003
+1670475922778: Peer 1004 has downloaded the piece 218 from 1003
+1670475922958: Peer 1004 received 'have' message from 1002
+1670475923526: Peer 1004 has downloaded the piece 438 from 1003
+1670475925103: Peer 1004 has downloaded the piece 309 from 1003
+1670475925108: Peer 1004 has the preferred neighbors 1002,1003
+1670475925643: Peer 1004 received 'have' message from 1002
+1670475931514: Peer 1004 received 'have' message from 1002
+1670475934504: Peer 1004 has the preferred neighbors 1001,1003
+1670475934979: Peer 1004 received 'have' message from 1002
+1670475938384: Peer 1004 received the ‘interested’ message from 1002
+1670475954798: Peer 1004 is unchoked by 1002
+1670475956978: Peer 1004 received 'have' message from 1002
+1670475961972: Peer 1004 received the ‘interested’ message from 1002
+1670475964030: Peer 1004 has the preferred neighbors 1001,1002
+1670475980825: Peer 1004 is unchoked by 1002
+1670475982048: Peer 1004 received 'have' message from 1002
+1670475984057: Peer 1004 has the preferred neighbors 1001,1002
+1670475986065: Peer 1004 received the ‘interested’ message from 1002
+1670475989507: Peer 1004 has the preferred neighbors 1001,1003
+1670475994664: Peer 1004 has the preferred neighbors 1002,1003
+1670475999423: Peer 1004 has the preferred neighbors 1002,1003
+1670476002839: Peer 1004 is unchoked by 1002
+1670476003195: Peer 1004 received 'have' message from 1002
+1670476004063: Peer 1004 received 'have' message from 1002
+1670476411163: Peer 1004 has the preferred neighbors 1002,1003
+1670476411407: Peer 1004 received 'have' message from 1002
+1670476411643: Peer 1004 received 'have' message from 1002
+1670476412194: Peer 1004 has downloaded the piece 683 from 1002
+1670476412744: Peer 1004 has downloaded the piece 718 from 1002
+1670476413320: Peer 1004 has downloaded the piece 186 from 1002
+1670476413323: Peer 1004 is choked by 1002
+1670476413326: Peer 1004 is unchoked by 1002

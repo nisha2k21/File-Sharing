@@ -1,0 +1,23 @@
+24301474 20386
+Listening to..6008
+Listening to..6008
+Listening to..6008
+Listening to..6008
+1670475658396: Peer 1001 makes connection to Peer 1002
+1670475658473: Peer 1001 is unchoked by 1002
+1670475658500: Peer 1001 makes connection to Peer 1003
+1670475658503: Peer 1001 makes connection to Peer 1004
+1670475658602: Peer 1001 is unchoked by 1003
+1670475658932: Peer 1001 received the ‘interested’ message from 1004
+1670475658936: Peer 1001 received the ‘interested’ message from 1002
+1670475658939: Peer 1001 received the ‘interested’ message from 1003
+1670475662562: Peer 1001 received the ‘interested’ message from 1002
+1670475662566: Peer 1001 received the ‘interested’ message from 1003
+1670475663582: Peer 1001 has the preferred neighbors 1003,1004
+1670475668635: Peer 1001 has the preferred neighbors 1002,1003
+1670475674281: Peer 1001 has the preferred neighbors 1002,1003
+1670475674283: Peer 1001 has the optimistically unchoked neighbor 1004
+1670475703182: Peer 1001 is unchoked by 1004
+1670475704245: Peer 1001 received 'have' message from 1004
+1670475745770: Peer 1001 is unchoked by 1004
+1670475746341: Peer 1001 received the ‘interested’ message from 1004
